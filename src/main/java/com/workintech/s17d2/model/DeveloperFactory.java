@@ -2,7 +2,7 @@ package com.workintech.s17d2.model;
 
 import com.workintech.s17d2.tax.Taxable;
 
-public class DeveloperFactory {
+/*public class DeveloperFactory {
     public static Developer createDeveloper(Developer developer, Taxable taxable){
         Developer createdDeveloper = null;
 
@@ -20,4 +20,4 @@ public class DeveloperFactory {
         }
         return createdDeveloper;
     }
-}
+}*/
